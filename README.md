@@ -1,16 +1,5 @@
 # base_project
 
-A new Flutter project.
+Base Flutter project for start new Flutter projects from it.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Added packages: cached_network_image, connectivity_plus, cupertino_icons, dio, equatable, firebase_crashlytics, flutter_bloc, flutter_localization, flutter_svg, get_it, intl, intl_translation,json_annotation, retrofit, shared_preferences, url_launcher, build_runner, flutter_lints,json_serializable,retrofit_generator.
